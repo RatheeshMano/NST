@@ -1,5 +1,4 @@
 name Run Gradio App
-
 on
   push
     branches
