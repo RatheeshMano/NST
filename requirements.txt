@@ -1,0 +1,3 @@
+Flask==2.3.3
+tensorflow==2.13.0  # Or the version used for your model
+Pillow==10.0.0
